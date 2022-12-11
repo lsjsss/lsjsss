@@ -4,10 +4,13 @@
   <br>  <br>  <br>
 
 
-  ### 👋 Hey, I'm Mr.Li. Welcome to my profile
+  ### 👋 Hey, I'm Mr.Li. 
+  <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to my profile&center=true&size=18"> </a> </h1>
   <br>
+  
+  <!-- <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=lsjsss" /> </div> -->
 
-  ![Visitor Count](https://profile-counter.glitch.me/lsjsss/count.svg) Visitor
+  <!-- ![Visitor Count](https://profile-counter.glitch.me/lsjsss/count.svg) Visitor -->
 
   <img src="https://picsum.photos/1920/1080/?blur=1">
 </div>
@@ -31,5 +34,8 @@
 | <a> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=lsjsss&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="lsjsss's github stats" /> </a> | <a> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsjsss&layout=compact&theme=buefy&hide_border=true&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </a> | 
 | ------------- | ------------- |
 </div>
+</br>
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_44340129&theme=dark"> </div>
+
 
 If my repositories can help you, please click a star⭐ for me. 
