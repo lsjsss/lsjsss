@@ -5,7 +5,8 @@
 
 
   ### 👋 Hey, I'm Mr.Li. 
-  <h1 align="center"> <a> <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile&center=true&size=18"> </a> </h1>
+  <h1 align="center"> 
+  <a> <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile+🏠;欢+迎+来+访+🏠&center=true&size=17"> </a> </h1>
   
   <a> <img src="https://visitor-badge.glitch.me/badge?page_id=lsjsss&left_color=green&right_color=red"> </a>
   <br>
@@ -39,7 +40,7 @@
 | ------------- | ------------- |
 </div>
 <br>
-<div align="center"> <a href="https://blog.csdn.net/weixin_44340129"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_44340129&theme=dark"> </div>
+<div align="center"> <a href="https://blog.csdn.net/weixin_44340129"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_44340129&theme=dark"> </a> </div>
 
 
-If my repositories can help you, please click a star⭐ for me. 
+### If my repositories can help you, please click a star⭐ for me. 
