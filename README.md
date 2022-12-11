@@ -11,7 +11,7 @@
 ### 😸 My Contributions
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Magi2B0y/Magi2B0y/main/assets/github-contribution-grid-snake.svg" />
+<img src="https://github.com/lsjsss/lsjsss/blob/output/github-contribution-grid-snake.gif" />
 <br>
 </div>
 
