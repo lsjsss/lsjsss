@@ -1,13 +1,13 @@
 <div align="center">
   <br><br><br>
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <a style="pointer-events: none;"> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br><br>
 
 
   ### 👋 Hey, I'm Mr.Li. 
   <h1 align="center"> <a style="pointer-events: none;"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to my profile&center=true&size=18"> </a> </h1>
   
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=lsjsss&left_color=green&right_color=red)
+  <a style="pointer-events: none;"> <img src="https://visitor-badge.glitch.me/badge?page_id=lsjsss&left_color=green&right_color=red"> </a>
   <br>
   
   <!-- <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=lsjsss" /> </div> -->
