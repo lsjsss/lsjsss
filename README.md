@@ -6,7 +6,7 @@
 
   ![Visitor Count](https://profile-counter.glitch.me/lsjsss/count.svg) Visitor
 
-  <img src="https://picsum.photos/1920/1080">
+  <img src="https://picsum.photos/1920/1080/?blur=1">
 </div>
 
 
