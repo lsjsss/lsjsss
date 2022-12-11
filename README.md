@@ -6,7 +6,7 @@
 
   ### 👋 Hey, I'm Mr.Li. 
   <h1 align="center"> 
-  <a> <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile+🏠;欢+迎+来+访+🏠&center=true&size=17"> </a> </h1>
+  <a> <img src="https://readme-typing-svg.demolab.com/?lines=Welcome;欢+迎;歡+迎;Accueillir;добро+пожаловать;أهلا+بك;bienvenidos;Willkommen;よ+う+こ+そ;환+영+하+다&center=true&size=17"> </a> </h1>
   
   <a> <img src="https://visitor-badge.glitch.me/badge?page_id=lsjsss&left_color=green&right_color=red"> </a>
   <br>
