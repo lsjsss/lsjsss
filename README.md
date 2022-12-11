@@ -14,7 +14,7 @@
 ### 😸 My Contributions
 
 <div align="center">
-<img src="https://github.com/lsjsss/lsjsss/blob/output/github-contribution-grid-snake.svg" />
+<!-- <img src="https://github.com/lsjsss/lsjsss/blob/output/github-contribution-grid-snake.svg" /> -->
 <br>
 </div>
 
