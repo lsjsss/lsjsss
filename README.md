@@ -5,7 +5,7 @@
 
 
   ### 👋 Hey, I'm Mr.Li. 
-  <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to my profile&center=true&size=18"> </a> </h1>
+  <h1 align="center"> <a href="https://littp.top/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to my profile&center=true&size=18"> </a> </h1>
   
   :octocat: ![visitors](https://visitor-badge.glitch.me/badge?page_id=lsjsss&left_color=green&right_color=red)
   <br>
