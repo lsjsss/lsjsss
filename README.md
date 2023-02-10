@@ -36,11 +36,11 @@
 
 <div align="center" width="100%">
 
-| <a> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=lsjsss&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="lsjsss's github stats" /> </a> | <a> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsjsss&layout=compact&theme=buefy&hide_border=true&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </a> | 
+| <a> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=lsjsss&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="lsjsss's github stats" /> </a> | <a href="https://blog.csdn.net/weixin_44340129"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_44340129&theme=dark"> </a> <!--<a> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsjsss&layout=compact&theme=buefy&hide_border=true&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </a> --> | 
 | ------------- | ------------- |
-</div>
+<!-- </div>
 <br>
-<div align="center"> <a href="https://blog.csdn.net/weixin_44340129"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_44340129&theme=dark"> </a> </div>
+<div align="center"> <a href="https://blog.csdn.net/weixin_44340129"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_44340129&theme=dark"> </a> </div> -->
 
 
 ### If my repositories can help you, please click a star⭐ for me. 
