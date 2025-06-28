@@ -6,12 +6,10 @@
 
   ### 👋 Hey, I'm Mr.Lee. 
   <h1 align="center"> 
-  <a> <img src="https://readme-typing-svg.demolab.com/?lines=Welcome;欢+迎;歡+迎;Accueillir;добро+пожаловать;أهلا+بك;bienvenidos;Willkommen;よ+う+こ+そ;환+영+하+다&center=true&size=17"> </a> </h1>
+  <!-- <a> <img src="https://readme-typing-svg.demolab.com/?lines=Welcome;欢+迎;歡+迎;Accueillir;добро+пожаловать;أهلا+بك;bienvenidos;Willkommen;よ+う+こ+そ;환+영+하+다&center=true&size=17"> </a> </h1> -->
   
   <a>
     <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=lsjsss&left_color=green&right_color=red"> -->
-    <script type="text/javascript" src="https://www.free-counters.org/count/i4wl"></script><br>
- <a href='https://www.versicherungen.at/hausversicherung-rechner/'>Hausversicherung Rechner</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=e4fd5e9d5ce00855addff09759c8feaf771354a1'></script>
   </a>
   <br>
   
