@@ -4,7 +4,7 @@
   <br><br><br>
 
 
-  ### 👋 Hey, I'm Mr.Lee. 
+  ### 👋 Hey, I'm Mr. Lee. 
   <h1 align="center"> 
   <!-- <a> <img src="https://readme-typing-svg.demolab.com/?lines=Welcome;欢+迎;歡+迎;Accueillir;добро+пожаловать;أهلا+بك;bienvenidos;Willkommen;よ+う+こ+そ;환+영+하+다&center=true&size=17"> </a> </h1> -->
   
